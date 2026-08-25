@@ -56,6 +56,8 @@ BobFull은 1인 방문이 어려운 제주 식당에서 사용자가 좌석 단�
 
 상세 조건과 한계는 [V3 Final Claim Matrix](https://github.com/bobfull-project/bobfull-backend/blob/develop/docs/evidence/v3/FINAL_CLAIM_MATRIX.md)와 각 Evidence 문서가 기준입니다.
 
+**[📌 대표 트러블슈팅 · 단일 EC2 SPOF에서 Multi-AZ Blue-Green까지](https://github.com/bobfull-project/bobfull-docs/blob/main/engineering-records/final-infrastructure-retrospective.md)**
+
 ---
 
 ## 🏗️ 시스템 아키텍처
